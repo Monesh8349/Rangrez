@@ -169,7 +169,7 @@ a {
       rgba(8, 6, 17, 0.23) 78%,
       rgba(8, 6, 17, 0.28)
     ),
-    url("img/RANGREZ_Hero.png")
+    url("RANGREZ_Hero.png")
       center 52% / cover;
   transform: scale(1.02);
 }
@@ -1113,7 +1113,7 @@ a {
       rgba(8, 6, 17, 0.23) 78%,
       rgba(8, 6, 17, 0.28)
     ),
-    url("img/RANGREZ_Hero.png")
+    url("RANGREZ_Hero.png")
       center 52% / cover;
   transform: scale(1.02);
 }
